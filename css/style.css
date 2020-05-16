@@ -1,0 +1,110 @@
+body{
+background-image:url(../img/fox1.jpg);
+background-size: cover;
+background-repeat: no-repeat;
+font-family: arial,sans-serif;
+}
+.nav
+{
+width: 700px;
+height: 200px;
+}
+.nav_container
+{
+height: 100px;
+width: 550px;
+background-color:rgba(255, 128, 0, 0.6);
+margin-left: 500px;
+margin-right: auto;
+}
+.nav_container ul li{
+list-style: none;
+display: inline;
+text-align: center;
+font-weight: bold;
+padding: 15px;
+}
+.nav_container a{
+color: white;
+text-decoration: none;
+padding: 10px;
+}
+.nav_container ul li:hover{
+background:rgba(192, 192, 192,0.5);
+transition: all 0.45s;
+}
+.pic{
+  margin-left: 380px;
+  margin-top:-60px;
+}
+
+.button1{
+margin-left:500;
+margin-top:40px;
+}
+.button2
+{
+margin-top:-72px ;
+margin-left:680px;
+}
+.name
+{
+margin-top: -320px;
+margin-bottom: 70px;
+margin-left: 605px;
+background-color:rgba(192, 192, 192, 0.7) ;
+height: 280px;
+width:490px;
+padding: 20px;
+color: #fff;
+font-family: arial,sans-serif;
+font-weight: bold;
+}
+.p{
+font-family: arial,sans-serif;
+font-weight: bold;
+color: rgb(204, 102, 0);
+margin-top: 60px;
+}
+.price{
+  font-family: arial,sans-serif;
+  font-weight: bold;
+margin-left: 58px;
+margin-top: -18px;
+}
+.p1{
+  font-family: arial,sans-serif;
+  font-weight: bold;
+  color: rgb(204, 102, 0);
+  margin-left: 140px;
+  margin-top: -18px;
+}
+.date{
+  font-family: arial,sans-serif;
+  font-weight: bold;
+  margin-left: 190px;
+  margin-top: -18px;
+}
+.p2{
+  font-family: arial,sans-serif;
+  font-weight: bold;
+  color: rgb(204, 102, 0);
+  margin-left: 300px;
+  margin-top: -18px;
+}
+.time{
+  font-family: arial,sans-serif;
+  font-weight: bold;
+  margin-left: 345px;
+  margin-top: -18px;
+}
+.contact{
+margin-top:80px;
+
+}
+.contact ul li{
+text-align:center;
+list-style: none;
+font-size: 9.5px;
+color: #ccc;
+}

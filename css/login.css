@@ -1,0 +1,46 @@
+.container
+{
+width:250px;
+height:230px;
+text-align: center;
+background-color:rgba(192, 192, 192, 0.7);
+margin: 0 auto;
+margin-bottom: 50px;
+padding-top: 50px;
+margin-top: 200px;
+}
+.container a{
+color:white;
+text-decoration: none;
+font-size:12px;
+}
+.container a:hover{
+color:#ccc;
+}
+input{
+height: 35px;
+width: 200px;
+border:1px;
+font-size: 15px;
+color: rgb(234, 117, 0);
+margin-top: 5px;
+background-color:#fff;
+padding-left:10px;
+}
+.form_input
+{
+margin-bottom:5px;
+}
+.form_input1{
+margin-top: 30px;
+}
+.contact{
+  margin-top:90px;
+}
+.contact ul li{
+  text-align: center;
+margin-right:45px;
+list-style: none;
+font-size: 9.5px;
+color: #ccc;
+}

@@ -1,0 +1,49 @@
+.nav_container{
+  width: 525px;
+  height: 90px;
+}
+#user{
+margin-left: 578px;
+margin-top:-18px;
+}
+#user a{
+margin-left: 7px;
+padding-left:20px;
+padding-right:30px;
+}
+.insane{
+  position: relative;
+  left: -8px;
+}
+.user_img{
+margin-left:605px;
+margin-top:-28px;
+}
+.img{
+margin-left:1240px;
+margin-top: -55px;
+}
+
+.nav_container ul li{
+  padding-left: 30px;
+  padding-right: 30px;
+}
+.nav ul li:hover ul{
+  display: block;
+}
+.nav ul ul{
+display: none;
+position: absolute;
+top: 94px;
+background-color: rgba(51, 51, 51,1);
+width: 104px;
+}
+.nav ul ul li{
+  display: block;
+  margin-left:-40px;
+  position: relative;
+}
+.nav ul ul li:hover{
+  color: #333;
+  width: 84px;
+}

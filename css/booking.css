@@ -1,0 +1,47 @@
+.container{
+  height:350px;
+  width: 680px;
+  margin-left: 320px;
+  margin-top:40px;
+  background-color: rgba(192,192,192, 0.7);
+  padding-left: 40px;
+  padding-top: 20px;
+  border: 1px;
+}
+.fee{
+margin-top: -65px;
+}
+input{
+height:45px;
+width:300px;
+border: 1px;
+font-size:15px;
+color:rgb(234, 117, 0);
+margin-top: 20px;
+margin-left:15px;
+background-color:#fff;
+padding-left:10px;
+}
+select{
+  height:45px;
+  width:300px;
+  border: 1px;
+font-size:15px;
+color:rgb(127, 127, 127);
+margin-top: 20px;
+margin-left:15px;
+background-color:#fff;
+padding-left:5px;
+}
+
+.contact{
+  margin-top: 50px;
+  margin-left: 10px;
+}
+.contact ul li{
+margin-right:35px;
+text-align:center;
+list-style: none;
+font-size: 9.5px;
+color: #ccc;
+}

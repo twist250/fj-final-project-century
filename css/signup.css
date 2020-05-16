@@ -1,0 +1,42 @@
+.container{
+  width:60%;
+  height:52%;
+  text-align: center;
+  background-color:rgba(192, 192, 192, 0.7);
+  margin: 0 auto;
+  margin-top:20px;
+  padding-top: 30px;
+}
+input{
+  height: 45px;
+  width: 350px;
+  border:1px;
+  font-size: 15px;
+  color:rgb(234, 117, 0);
+  margin-top: 5px;
+  margin-left:10px;
+  margin-right: 10px;
+  margin-bottom: 10px;
+  background-color:#fff;
+  padding-left:10px;
+}
+ .form_input{
+margin-top: 50px;
+ }
+ .input_address{
+margin-right:375px;
+margin-top: -60px;
+ }
+ .input_tel{
+   margin-left: 374px;
+ }
+ .contact{
+   margin-top: 0px;
+ }
+ .contact ul li{
+ text-align:center;
+ margin-right:45px;
+ list-style: none;
+ font-size: 9.5px;
+ color: #ccc;
+ }
